@@ -1,9 +1,7 @@
-My Project
+# React Starter Boilerplate Code
 ---
- 
-Welcome.
- 
- 
+
+
  
 Usage
 ---
