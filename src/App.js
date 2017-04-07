@@ -4,7 +4,7 @@ import React from 'react';
  * A counter button: tap the button to increase the count.
  */
 
-export default class Counter extends React.Component {
+export default class App extends React.Component {
   constructor() {
     super();
     this.state = {
